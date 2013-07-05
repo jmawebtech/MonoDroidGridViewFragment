@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FileListGridViewFragment.cs">
+    <Files>
+      <File FileName="FileListGridViewFragment.cs" Line="77" Column="4" />
+      <File FileName="FileListFragment.cs" Line="42" Column="88" />
+      <File FileName="FileListRowImageHolder.cs" Line="55" Column="7" />
+      <File FileName="FileListAdapter.cs" Line="62" Column="128" />
+      <File FileName="FileListRowViewHolder.cs" Line="45" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FilePickerExample AndroidDeviceId-Debug="015D9BDD0602802F" MonoForAntroid.PreferredDevice="3.7in WVGA (Nexus One)" />
+</Properties>
