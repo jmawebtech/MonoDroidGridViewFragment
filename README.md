@@ -1,4 +1,8 @@
-MonoDroidGridViewFragment
+Mono for Android GridView Fragment Example
 =========================
 
-an example of using a GridView with a fragment. Uses the file system example
+This example demonstrates using a GridView inside of a fragment. The example uses the file browser code:
+
+http://docs.xamarin.com/recipes/android/data/files/browse_files
+
+JMA Web Technologies is available for Android consulting. To receive a quote, please contact us at www.jmawebtechnologies.com/contact
